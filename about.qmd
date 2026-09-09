@@ -1,5 +1,12 @@
 ---
 title: "About"
 ---
+## Employment
+I worked for about 6 years as an AEM (Adobe Experience Manager) web developer for major car brands in the US and Canadian market. My work included projects related to major site redesigns and improvements. In addition to that, I also worked on implementing and optimizing frontend analytics and accessibility solutions, authored technical and instructional documentation for complex
+components, and developed reusable component features for streamlined site updates.
 
-About this site
+## Education
+I have a bachelor's degree in computer software engineering from ULACIT, Costa Rica.
+
+## Hobbies
+I really love video games but I also enjoy other things like traveling and exploring cities, cooking and trying different types of meals.

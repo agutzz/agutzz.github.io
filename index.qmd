@@ -1,7 +1,15 @@
 ---
-title: "agutzz"
+title: "Alex Gutierrez"
+about:
+  id: hero-heading
+  template: jolla
+  image: images/profile.png
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/agutzz
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/alejandrogutzs
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My name is Alejandro but I often prefer to go by Alex. I'm an international student from Costa Rica. I have a bachelor's in computer software engineering and worked as an AEM Front End developer for 6 years. I'd like to become a data engineer or data scientist which is why I started MDS.
